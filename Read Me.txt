@@ -1,0 +1,5 @@
+ALGORÍTIMOS ESSENCIAIS
+
+Algorítimos essenciais são estudos de algorítimos que considero importatntes no estudo da programação. São algorítimos que sempre são cobrados nas provas das universidades e testes de lógica para programadores iniciantes.
+
+ Este repositório está sempre em atualização. Nele implemento alguns desses algoritimos na linguagem Javascript
